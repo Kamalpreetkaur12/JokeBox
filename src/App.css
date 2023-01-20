@@ -1,0 +1,42 @@
+body{
+  background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(47,83,214,0.8743872549019608) 0%, rgba(212,50,140,0.7287289915966386) 100%);
+}
+
+.App {
+  text-align: center;
+ 
+}
+
+.btn{
+  background-color: black;
+  color: white;
+  width: 20rem;
+  height: 2rem;
+  font-size: 1.2rem;
+}
+
+
+.jokes{
+  background-color: rgb(201, 201, 204);
+  color: black;
+  width: 50%;
+  height: 5rem;
+  margin: 2rem auto;
+  padding: 1rem;
+  border: 2px solid black;
+}
+
+.question, .punchline{
+  background-color: rgb(228, 228, 230);
+  border: 2px solid black;
+  width: 20rem;
+  height: 2rem;
+  margin-right: 1rem;
+}
+
+.save{
+  width: 7rem;
+  height: 2rem;
+  background-color: gray;
+}
